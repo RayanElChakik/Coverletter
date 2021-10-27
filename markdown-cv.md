@@ -1,4 +1,5 @@
 # Rayan El Chakik
+<img src="Rayan Profile.JPG" width="50%">
 
 ## Tripoli, Lebanon
 
@@ -12,7 +13,6 @@ the-box thinker, passionate about web programming and networking. A hard-worker
 spending countless hours learning new development languages.
 
 ## PROFESSIONAL EXPERIENCE
-
 **Intern 2019**
 **_MADA:_** _Beirut, Lebanon_
 
