@@ -1,4 +1,4 @@
-# RayElChakik
+# Rayan El Chakik
 
 ## Tripoli, Lebanon
 
@@ -52,11 +52,7 @@ Participated in drive-tests to analyze and solve cellular connectivity and inter
 _Beirut Arab University – Bachelor of Engineering in Communication & Electronics Engineering (2019)_
 
 ICDL Certificate, Java Certificate (2017)
-## EDUCATION & CERTIFICATIONS
 
-_Beirut Arab University – Bachelor of Engineering in Communication & Electronics Engineering (2019)_
-
-ICDL Certificate, Java Certificate (2017)
 ## TECHNOLOGY & TOOLS
 
 _Microsoft Office (Word, Excel, PowerPoint, Outlook, Access, Publisher) / HTML / CSS / Java & OOP / MATLAB / HFSS /
